@@ -1,0 +1,52 @@
+{
+  "category": "FAE_FOLKLORE",
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/alux",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "alux",
+    "name": "Alux",
+    "aliases": [
+      {
+        "name": "Aluxes"
+      },
+      {
+        "name": "Aluxo'ob"
+      },
+      {
+        "name": "Chanques"
+      },
+      {
+        "name": "Duendes Maya",
+        "language": "Mayan"
+      }
+    ],
+    "category": "FAE_FOLKLORE",
+    "subcategory": "Nature guardian",
+    "tags": [
+      "fae",
+      "nature-spirit",
+      "guardian",
+      "folklore"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Small Mayan spirit beings that protect the land, forests, and cornfields",
+      "full": "Small Mayan spirit beings that protect the land, forests, and cornfields"
+    }
+  }
+}
