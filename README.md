@@ -1,322 +1,143 @@
 # Alux
 
-> *"Legends born from the shadows of reality"*
+> Small, often invisible nature beings of Yucatec Maya tradition, regarded as guardians of the land, forest, and milpa (cornfield), capable of helping or harming humans depending on how they are treated.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Category](https://img.shields.io/badge/category-FAE FOLKLORE-purple)]()
-[![Status](https://img.shields.io/badge/status-documented-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-0-orange)]() ![Status](https://img.shields.io/badge/status-documented-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `alux` |
 | **Category** | FAE_FOLKLORE |
-| **Classification** | Nature guardian |
-| **Primary Region** | Yucatán Peninsula |
-| **Cultural Origin** | Mayan |
-| **Status** | Documented |
+| **Subcategory** | Maya land / nature spirit |
+| **First recorded** | 20th century |
+| **Primary range** | Yucatec Maya cultural area: the Yucatán Peninsula of Mexico, Belize, and northern Guatemala |
+| **Status** | documented |
 
 ---
-
 ## Overview
 
-Small Mayan spirit beings that protect the land, forests, and cornfields
-
-This phenomenon represents an important part of Mayan folklore and cultural heritage, with documented accounts and traditions spanning generations.
+An alux (Yucatec Maya [aˈluʃ], plural aluxo'ob) is a small, knee-high being of Yucatec Maya tradition, often described as resembling a miniature traditionally-dressed Maya person. Aluxo'ob are generally invisible but can take physical form to communicate or congregate. They are most strongly associated with the milpa (cornfield) and with caves and forests, and are regarded as guardians and as sources of mischief: they can call rain and protect crops, but if disrespected they will throw pots, blow out fires, hide tools, and bring sickness on those who offend them. Maya farmers traditionally build a small shelter (sometimes called a koben) for an alux when establishing a milpa, leaving offerings; after seven years the structure is sealed to prevent the being from running wild. Modern construction projects in the Yucatán, including the well-known Cancun Hyatt-area bridge, have included propitiatory rituals to the aluxo'ob to forestall accidents. The Yucatec aluxo'ob belong to a wider Mesoamerican family of small land spirits including the Nahuatl chanekeh / chaneque.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| Aluxo'ob | Yucatec Maya | plural of alux |
+| Chanekeh | Nahuatl / Central Mexico |  |
+| Chaneque | Spanish (loan from Nahuatl) / Mexico |  |
 
-### Primary Name
-- **Alux** — Yucatán, Mexico
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Notes |
-|------|-----------------|-------|
-| Aluxes | Yucatán Peninsula | Traditional name |
-| Aluxo'ob | Yucatán Peninsula | Traditional name |
-| Chanques | Yucatán Peninsula | Traditional name |
-| Duendes Maya | Yucatán Peninsula | Traditional name |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: FAE_FOLKLORE
-├── Type: Nature guardian
-└── Origin: Mayan
-```
+- **Origin**: From Yucatec Maya alux [aˈluʃ], plural aluxo'ob.
+- **Meaning**: The word does not have an agreed external etymology; in tradition it simply names the being.
+- **First use**: Documented in colonial-era and 20th-century Yucatec Maya ethnography.
 
 ---
-
-## Characteristics
-
-### Description
-
-Small Mayan spirit beings that protect the land, forests, and cornfields
-
-### Cultural Significance
-
-This entity holds significant meaning within Mayan culture and tradition. The phenomenon reflects deep cultural values and ancestral knowledge passed down through generations.
-
----
-
-## Distribution
-
-### Geographic Range
-
-**Primary Region:** Yucatán Peninsula
-
-The phenomenon is primarily reported in Yucatán Peninsula, with strongest traditions in Mayan communities.
-
-### Cultural Context
-
-- **Origin Culture:** Mayan
-- **Geographic Focus:** Yucatán Peninsula
-- **Traditional Knowledge:** Passed through oral tradition
-- **Modern Status:** Still acknowledged in local folklore
-
----
-
-## History
-
-### Origins
-
-The Alux originates from Mayan tradition in Yucatán Peninsula. Stories and accounts have been passed down through generations, maintaining cultural significance.
-
-### Historical Timeline
-
-**Traditional Era (Pre-modern)**
-- Oral traditions establish phenomenon in cultural consciousness
-- Stories serve educational and cautionary purposes
-- Integrated into community belief systems
-
-**Colonial Period**
-- First documentation by outside observers
-- Cultural practices continue despite external pressures
-- Traditions maintained in local communities
-
-**Modern Era (20th-21st Century)**
-- Academic documentation and study
-- Cultural revival and preservation efforts
-- Continued relevance in contemporary society
-
----
-
-## Accounts & Encounters
-
-### Traditional Accounts
-
-The Alux features prominently in Mayan folklore, with numerous traditional accounts passed through oral tradition. These stories serve important cultural functions including:
-
-- Moral instruction
-- Cultural identity preservation
-- Explanation of natural phenomena
-- Social cohesion
-
-### Contemporary Reports
-
-Modern accounts continue to emerge from Yucatán Peninsula, suggesting ongoing cultural relevance and possibly genuine unexplained experiences.
-
----
-
-## Evidence & Documentation
-
-### Folklore Documentation
-
-- Oral traditions collected by anthropologists
-- Written accounts from cultural practitioners
-- Academic studies of Mayan belief systems
-- Comparative folklore analysis
-
-### Cultural Artifacts
-
-- Traditional art depicting the phenomenon
-- Ceremonial objects related to protection or invocation
-- Place names and geographic features
-- Cultural practices and rituals
-
----
-
-## Theories & Interpretations
-
-### Cultural Perspective
-
-From within Mayan tradition, the Alux represents:
-- Legitimate spiritual/supernatural reality
-- Important cultural knowledge
-- Connection to ancestral wisdom
-- Part of living tradition
-
-### Academic Analysis
-
-Scholars approach the phenomenon from multiple angles:
-- **Anthropological:** Cultural function and meaning
-- **Folkloric:** Story patterns and transmission
-- **Psychological:** Cognitive and social factors
-- **Historical:** Development and evolution of belief
-
-### Skeptical Viewpoint
-
-Skeptics often attribute accounts to:
-- Cultural conditioning and belief systems
-- Misidentification of natural phenomena
-- Psychological factors including suggestion
-- Social reinforcement of traditional narratives
-
----
-
-## Cultural Impact
-
-### Traditional Role
-
-In Mayan culture, the Alux:
-- Serves educational purposes
-- Reinforces cultural values
-- Maintains connection to heritage
-- Provides framework for understanding the world
-
-### Modern Influence
-
-**Academic Interest:**
-- Subject of anthropological study
-- Folklore documentation projects
-- Cultural preservation initiatives
-- Comparative mythology research
-
-**Popular Culture:**
-- Featured in regional tourism
-- Depicted in local art and media
-- Subject of cultural festivals
-- Educational programs
-
-**Cultural Preservation:**
-- Efforts to document traditional knowledge
-- Integration into cultural education
-- Protection of sacred sites and practices
-- Respect for traditional beliefs
-
----
-
-## Research & Investigation
-
-### Academic Study
-
-Scholars from various disciplines have studied the Alux phenomenon:
-
-- Anthropologists documenting cultural beliefs
-- Folklorists analyzing narrative structures
-- Historians tracing development of traditions
-- Sociologists examining cultural functions
-
-### Cultural Authorities
-
-Traditional knowledge holders and cultural practitioners maintain the most authoritative understanding of the phenomenon within its original cultural context.
-
-### Ongoing Documentation
-
-Current efforts focus on:
-- Recording oral traditions before they are lost
-- Respectful academic documentation
-- Cultural preservation programs
-- Community-led research initiatives
-
----
-
-## Cultural Sensitivity & Respect
-
-### Important Considerations
-
-When engaging with this phenomenon:
-
-- **Respect Cultural Origins:** Recognize this as living cultural tradition
-- **Avoid Appropriation:** Do not remove from cultural context
-- **Consult Communities:** Seek permission and guidance from cultural authorities
-- **Accurate Representation:** Present information respectfully and accurately
-- **Support Preservation:** Contribute to cultural preservation efforts
-
-### Guidelines for Researchers
-
-- Work collaboratively with communities
-- Obtain proper permissions
-- Share findings with source communities
-- Respect restrictions on sacred knowledge
-- Provide fair compensation and credit
-
----
-
 ## Related Phenomena
 
-### Similar Entities
-
-- Various related phenomena from regional folklore
-- Similar entities in neighboring cultural traditions
-- Comparative examples from world mythology
+- [Chaneque](../chaneque/) — _similar_: Nahuatl small nature spirit of central Mexico
+- [Duende](../duende/) — _similar_: Iberian and Latin American small house / forest spirit
+- [Leprechaun](../leprechaun/) — _similar_: Irish small mischievous folkloric being (parallel role)
 
 ---
+## Physical Description
 
-## Sources & Further Reading
+- **Height**: 0.4–0.7 meters _(low confidence)_
+- **Morphology**: Anthropomorphic, miniature-human form.
 
-See [SOURCES.md](./SOURCES.md) for complete bibliography and references.
+### Features
 
-### Recommended Starting Points
+| Feature | Description | Frequency |
+|---|---|---|
+| Knee-high stature | Aluxo'ob are described as about knee-high to a person | always |
+| Traditionally-dressed Maya appearance | When visible, resemble miniature Maya people in traditional clothing | common |
+| Invisibility by default | Generally unseen; appear visibly when they choose to communicate | always |
 
-- Academic studies of Mayan folklore
-- Anthropological surveys of Yucatán Peninsula
-- Cultural documentation projects
-- Traditional oral histories (where accessible)
+## Reported Abilities
 
----
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Invisibility / partial visibility | Default invisible state, with the option to appear visibly | always | folklore |
+| Calling rain and protecting crops | Aluxo'ob bound to a milpa are said to summon rain and patrol the field at night to protect against thieves and pests | common | folklore |
+| Mischief and household disturbance | Throwing pots and pans, putting out fires, hiding tools, and other poltergeist-like phenomena when disrespected | common | folklore |
+| Causing illness | Said to cause sickness in those who offend them or trespass on protected land | occasional | folklore |
 
-## Contribution Guidelines
+## Behavior
 
-This documentation is part of the Wyrdness project to preserve and present paranormal and folkloric phenomena respectfully.
-
-### How to Contribute
-
-- Submit corrections or additional information
-- Provide cultural context and traditional knowledge (with permission)
-- Share academic sources and references
-- Suggest related phenomena
-
-### Standards
-
-- Cultural sensitivity and respect required
-- Academic rigor expected
-- Proper attribution mandatory
-- Community consultation encouraged
+- **Activity**: nocturnal
+- **Disposition**: variable
+- **Social structure**: variable
+- **Habitat**: milpa (cornfield), forest, cave, Maya archaeological sites
 
 ---
+## Distribution
 
+Yucatec Maya cultural area: the Yucatán Peninsula of Mexico, Belize, and northern Guatemala.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Yucatán Peninsula | Yucatán / Quintana Roo / Campeche, Mexico |  |  |
+
+---
+## Historical Timeline
+
+| Date | Event | Significance |
+|---|---|---|
+| 20th century | Ethnographers document Yucatec aluxo'ob traditions and the milpa shelter / seven-year sealing custom | Anchoring of the tradition in the academic record |
+
+---
+## Theories & Explanations
+
+### Paranormal / Cryptozoological
+
+**Genuine land spirits** _(Yucatec Maya communities)_
+
+In Yucatec Maya tradition, aluxo'ob are real, sentient beings to whom respect and offerings are owed.
+
+### Skeptical
+
+**Cultural personification of agricultural and ecological dynamics** _(Anthropologists of Mesoamerica)_
+
+Aluxo'ob beliefs encode generations of ecological observation and risk management around the milpa, framed as relations with personified land beings.
+
+
+## Indigenous Perspectives
+
+> ⚠️ **Aluxo'ob beliefs are an active religious / ritual tradition; representations should respect the source community.**
+
+**Cultures**: Yucatec Maya
+
+Aluxo'ob are part of living Maya cosmology and agricultural practice, not merely 'folklore' in the antiquarian sense.
+
+_Guidelines: Use Yucatec Maya sources where possible; avoid trivialising the tradition by treating aluxo'ob purely as 'fairies' or game characters._
+
+## Popular Culture
+
+
+**Other**: Construction-site propitiation ceremonies in Cancún and the Riviera Maya
+
+---
+## Sources
+
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
+
+
+## How to Report a Sighting
+
+1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
+2. Provide date, location, witnesses, description, conditions, and any evidence.
+
+---
 ## License
 
-- **Data:** CC0-1.0 (Public Domain)
-- **Documentation:** CC-BY-4.0 (Attribution Required)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-## Metadata
-
-```json
-{
-  "id": "alux",
-  "name": "Alux",
-  "category": "FAE_FOLKLORE",
-  "region": "Yucatán Peninsula",
-  "culture": "Mayan",
-  "version": "1.0.0",
-  "last_updated": "2026-01-14"
-}
-```
-
----
-
-**Note:** This documentation presents the Alux phenomenon respectfully within its cultural context. The information is compiled from various sources and represents both traditional knowledge and academic study. Always approach cultural traditions with respect and sensitivity.
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._

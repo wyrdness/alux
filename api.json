@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
+    "last_updated": "2026-05-07",
     "repository": "https://github.com/wyrdness/alux",
     "maintainers": [
       {
@@ -16,82 +16,127 @@
       "content": "CC-BY-4.0"
     }
   },
+
   "phenomenon": {
     "id": "alux",
     "name": "Alux",
-    "aliases": [],
+    "aliases": [
+      { "name": "Aluxo'ob", "language": "Yucatec Maya", "meaning": "plural of alux" },
+      { "name": "Chanekeh", "language": "Nahuatl", "region": "Central Mexico" },
+      { "name": "Chaneque", "language": "Spanish (loan from Nahuatl)", "region": "Mexico" }
+    ],
     "category": "FAE_FOLKLORE",
-    "subcategory": "Nature guardian",
+    "subcategory": "Maya land / nature spirit",
     "tags": [
+      "yucatan",
+      "maya",
+      "nature-spirit",
+      "guardian",
       "folklore",
-      "mythology"
+      "mesoamerica"
     ],
     "status": "documented",
     "description": {
-      "summary": "Small Mayan spirit beings that protect the land, forests, and cornfields This phenomenon represents an important part of Mayan folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-      "full": "Small Mayan spirit beings that protect the land, forests, and cornfields This phenomenon represents an important part of Mayan folklore and cultural heritage, with documented accounts and traditions spanning generations."
+      "summary": "Small, often invisible nature beings of Yucatec Maya tradition, regarded as guardians of the land, forest, and milpa (cornfield), capable of helping or harming humans depending on how they are treated.",
+      "full": "An alux (Yucatec Maya [aˈluʃ], plural aluxo'ob) is a small, knee-high being of Yucatec Maya tradition, often described as resembling a miniature traditionally-dressed Maya person. Aluxo'ob are generally invisible but can take physical form to communicate or congregate. They are most strongly associated with the milpa (cornfield) and with caves and forests, and are regarded as guardians and as sources of mischief: they can call rain and protect crops, but if disrespected they will throw pots, blow out fires, hide tools, and bring sickness on those who offend them. Maya farmers traditionally build a small shelter (sometimes called a koben) for an alux when establishing a milpa, leaving offerings; after seven years the structure is sealed to prevent the being from running wild. Modern construction projects in the Yucatán, including the well-known Cancun Hyatt-area bridge, have included propitiatory rituals to the aluxo'ob to forestall accidents. The Yucatec aluxo'ob belong to a wider Mesoamerican family of small land spirits including the Nahuatl chanekeh / chaneque."
     },
     "etymology": {
-      "origin": "| Mayan |",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
+      "origin": "From Yucatec Maya alux [aˈluʃ], plural aluxo'ob.",
+      "meaning": "The word does not have an agreed external etymology; in tradition it simply names the being.",
+      "first_use": "Documented in colonial-era and 20th-century Yucatec Maya ethnography."
     }
   },
+
   "classification": {
     "taxonomy": {
       "category": "FAE_FOLKLORE",
-      "type": "Nature guardian",
-      "subtype": "Unknown",
-      "variant": "Unknown"
+      "type": "Land / nature spirit",
+      "subtype": "Small invisible guardian being",
+      "variant": "Yucatec Maya"
     },
-    "related_phenomena": []
+    "related_phenomena": [
+      { "id": "chaneque", "name": "Chaneque", "relationship": "similar", "description": "Nahuatl small nature spirit of central Mexico" },
+      { "id": "duende", "name": "Duende", "relationship": "similar", "description": "Iberian and Latin American small house / forest spirit" },
+      { "id": "leprechaun", "name": "Leprechaun", "relationship": "similar", "description": "Irish small mischievous folkloric being (parallel role)" }
+    ]
   },
+
   "characteristics": {
     "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
+      "height": { "min": 0.4, "max": 0.7, "unit": "meters", "confidence": "low" },
+      "features": [
+        { "feature": "Knee-high stature", "description": "Aluxo'ob are described as about knee-high to a person", "frequency": "always" },
+        { "feature": "Traditionally-dressed Maya appearance", "description": "When visible, resemble miniature Maya people in traditional clothing", "frequency": "common" },
+        { "feature": "Invisibility by default", "description": "Generally unseen; appear visibly when they choose to communicate", "frequency": "always" }
+      ],
+      "morphology": "Anthropomorphic, miniature-human form."
     },
-    "abilities": [],
+    "abilities": [
+      { "ability": "Invisibility / partial visibility", "description": "Default invisible state, with the option to appear visibly", "frequency": "always", "evidence_level": "folklore" },
+      { "ability": "Calling rain and protecting crops", "description": "Aluxo'ob bound to a milpa are said to summon rain and patrol the field at night to protect against thieves and pests", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Mischief and household disturbance", "description": "Throwing pots and pans, putting out fires, hiding tools, and other poltergeist-like phenomena when disrespected", "frequency": "common", "evidence_level": "folklore" },
+      { "ability": "Causing illness", "description": "Said to cause sickness in those who offend them or trespass on protected land", "frequency": "occasional", "evidence_level": "folklore" }
+    ],
     "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
+      "activity_period": "nocturnal",
+      "disposition": "variable",
+      "social_structure": "variable",
+      "habitat_preference": ["milpa (cornfield)", "forest", "cave", "Maya archaeological sites"],
+      "patterns": [
+        "Bound to specific places, especially milpas and ruins",
+        "Respond to ritual offerings and respect",
+        "Active at night and at dawn"
+      ]
     }
   },
+
   "distribution": {
     "range": {
-      "description": "| Mayan |",
-      "continents": [],
-      "countries": [],
-      "regions": []
+      "description": "Yucatec Maya cultural area: the Yucatán Peninsula of Mexico, Belize, and northern Guatemala.",
+      "continents": ["North America"],
+      "countries": ["Mexico", "Belize", "Guatemala"],
+      "regions": ["Yucatán Peninsula", "Quintana Roo", "Campeche", "Petén"]
     },
-    "hotspots": [],
+    "hotspots": [
+      {
+        "name": "Yucatán Peninsula",
+        "location": {
+          "description": "Heartland of Yucatec Maya culture",
+          "country": "Mexico",
+          "region": "Yucatán / Quintana Roo / Campeche"
+        },
+        "notes": "Aluxo'ob traditions are integral to milpa agriculture and ritual life across the peninsula."
+      }
+    ],
     "temporal": {
       "first_recorded": {
-        "date": "Unknown",
+        "date": "Pre-contact (oral tradition)",
         "circa": true,
-        "source": "Traditional folklore"
-      }
+        "source": "Yucatec Maya oral and ritual tradition"
+      },
+      "peak_activity_periods": [
+        { "period": "Continuous", "description": "Aluxo'ob beliefs are continuously active in contemporary Maya communities" }
+      ]
     }
   },
+
   "history": {
     "origins": {
-      "cultural_roots": "| Mayan |",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
+      "cultural_roots": "Yucatec Maya tradition; aluxo'ob are an integral part of agricultural ritual and land cosmology.",
+      "earliest_accounts": "Pre-Columbian Maya cosmology of small land beings (no direct surviving Classic-period text uses the word 'alux'); colonial and modern ethnography documents the tradition in detail.",
+      "folklore_connections": "Part of a wider Mesoamerican family of small nature spirits including the Nahuatl chanekeh."
     },
-    "timeline": []
+    "timeline": [
+      { "date": "20th century", "event": "Ethnographers document Yucatec aluxo'ob traditions and the milpa shelter / seven-year sealing custom", "significance": "Anchoring of the tradition in the academic record", "source": "Yucatec Maya ethnographic literature" }
+    ],
+    "modern_era": "Aluxo'ob remain part of living Yucatec Maya practice. Construction firms working in the Yucatán routinely make ritual offerings to placate aluxo'ob; the practice has been widely reported in connection with Cancún-area projects."
   },
+
   "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
     "notable": [],
     "database_path": "./sightings/"
   },
+
   "evidence": {
     "physical": [],
     "photographic": [],
@@ -99,28 +144,62 @@
     "audio": [],
     "trace": []
   },
+
   "theories": {
-    "paranormal": [],
+    "paranormal": [
+      {
+        "name": "Genuine land spirits",
+        "description": "In Yucatec Maya tradition, aluxo'ob are real, sentient beings to whom respect and offerings are owed.",
+        "proponents": ["Yucatec Maya communities"],
+        "evidence_cited": ["Continuous lived tradition", "Generations of agricultural ritual practice"]
+      }
+    ],
     "scientific": [],
-    "skeptical": []
+    "skeptical": [
+      {
+        "name": "Cultural personification of agricultural and ecological dynamics",
+        "description": "Aluxo'ob beliefs encode generations of ecological observation and risk management around the milpa, framed as relations with personified land beings.",
+        "proponents": ["Anthropologists of Mesoamerica"],
+        "evidence_cited": ["Comparative anthropology of nature-spirit traditions"]
+      }
+    ]
   },
+
   "cultural": {
     "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
+      "traditions": [
+        "Yucatec Maya milpa-shelter and seven-year tradition",
+        "Maya construction propitiation rituals"
+      ],
+      "stories": [
+        "Aluxo'ob aiding farmers who treat them respectfully",
+        "Aluxo'ob causing illness or disturbance to disrespectful trespassers"
+      ],
+      "beliefs": "Aluxo'ob are owed respect, offerings, and proper ritual; they are not invoked frivolously."
+    },
+    "indigenous": {
+      "cultures": ["Yucatec Maya"],
+      "significance": "Aluxo'ob are part of living Maya cosmology and agricultural practice, not merely 'folklore' in the antiquarian sense.",
+      "sensitivity_note": "Aluxo'ob beliefs are an active religious / ritual tradition; representations should respect the source community.",
+      "respect_guidelines": "Use Yucatec Maya sources where possible; avoid trivialising the tradition by treating aluxo'ob purely as 'fairies' or game characters."
     },
     "popular_culture": {
       "literature": [],
       "film_tv": [],
       "games": [],
-      "other": []
+      "other": [
+        "Construction-site propitiation ceremonies in Cancún and the Riviera Maya"
+      ]
     }
   },
+
   "research": {
     "researchers": [],
     "organizations": [],
-    "ongoing_studies": "None documented"
+    "ongoing_studies": "Active ethnographic interest in Yucatec Maya cosmology and agricultural ritual."
   },
-  "sources": []
+
+  "sources": [
+    { "id": "wikipedia-alux", "type": "website", "title": "Alux", "publication": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Alux", "accessed": "2026-05-07" }
+  ]
 }
